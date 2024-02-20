@@ -4,3 +4,6 @@
 
 ![Screenshot 2024-02-18 143842](https://github.com/Pavankurapati03/Heart_Diesease_Prediction_Web_app/assets/124707043/d549c6fe-199f-4235-8939-a170e4037b1c)
 
+### This is deployed in streamlit cloud
+Here is the link for my web app : https://heartdieseasepredictionwebapp-xkxiwckifubiefdff8egbo.streamlit.app/
+
